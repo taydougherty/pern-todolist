@@ -2,7 +2,7 @@
 
 ## Built using PERN stack:
 
-PostgreSQL
-Express
-React
-Node
+*PostgreSQL
+*Express
+*React
+*Node
