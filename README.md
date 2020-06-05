@@ -1,4 +1,4 @@
-# Simple To-do App
+# :clipboard: Simple To-do App
 
 ## Built using PERN stack:
 
